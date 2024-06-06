@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Hosptial Mangement**
 
-- 🌱 I’m currently learning **Mern,socket io,Web-rtc**
+- 🌱 I’m currently learning **nest js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilshadanikkadan/](https://github.com/dilshadanikkadan/)
 
