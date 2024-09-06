@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muahmmed Dilshad A</h1>
-<h3 align="center">🚀 Young and Passionate MERN Stack Enthusiast 🚀</h3>
+<h3 align="center">🚀 Passionate MERN Stack Enthusiast 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshadanikkadan&label=Profile%20views&color=0e75b6&style=flat" alt="dilshadanikkadan" /> </p>
 
-- 🔭 I’m currently working on **Hosptial Mangement**
-
-- 🌱 I’m currently learning **nest js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilshadanikkadan/](https://github.com/dilshadanikkadan/)
 
-- 💬 Ask me about **React,Socket,web-rtc**
+- 💬 Ask me about **Js|Ts|React|Node|MongoDb**
 
 - 📫 How to reach me **dilshadanikkadan3312@gmail.com**
 
